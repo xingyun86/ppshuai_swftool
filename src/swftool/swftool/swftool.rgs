@@ -1,0 +1,11 @@
+HKCR
+{
+	NoRemove AppID
+	{
+		{ABC9BF3A-B1D4-4796-A50F-CE948FC9165D} = s 'swftool'
+		'swftool.EXE'
+		{
+			val AppID = s {ABC9BF3A-B1D4-4796-A50F-CE948FC9165D}
+		}
+	}
+}
